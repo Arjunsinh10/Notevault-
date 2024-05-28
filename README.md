@@ -38,7 +38,7 @@ Deploy the application**:
 
 Deploy the application on a web server like Apache Tomcat.
 
-##Usage
+## Usage
 
 
 **Register**: Create a new account by providing a username, password, and email.
